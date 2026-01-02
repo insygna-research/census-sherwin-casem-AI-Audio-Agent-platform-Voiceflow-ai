@@ -1,6 +1,6 @@
 <div align="center">
 
-![VoiceFlow AI](assets/voiceflow_banner.png)
+![VoiceFlow AI](assets/voiceflow_banner.png?v=2)
 
 # VoiceFlow AI
 
